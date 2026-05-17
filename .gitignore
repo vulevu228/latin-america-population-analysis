@@ -1,0 +1,12 @@
+# History files (Temporary R files you don't want on GitHub)
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio or VS Code workspace files
+.Rproj.user/
+.vscode/
+
+# Operating System junk files
+Thumbs.db
+.DS_Store
